@@ -10,7 +10,7 @@
 // const sum = add(5,4)
 // console.log(sum)
 
-
+const validator = require('validator')
 const getNotes = require('./notes.js')
 
 console.log(getNotes())
