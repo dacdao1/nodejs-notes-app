@@ -4,3 +4,8 @@ The development with this software will be created with Javascript, mostly Node.
 
 # Functionality of this app
 
+
+# Feature being added within **feature branch**
+| Feature created | Commit | Date |
+| --------------- | :----: | :---: |
+| First feature   | 1      | 7/18/19|
